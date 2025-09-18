@@ -1,0 +1,338 @@
+{
+  "count": 37,
+  "entries": [
+    {
+      "otp_id": "315",
+      "city": "Варна",
+      "office_name": "ВЛАДИСЛАВ",
+      "type": "ФЦ",
+      "address_line": "бул. \"Вл. Варненчик\" 92",
+      "hours": "08:45 - 13:00; 13:30 - 16:45",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "337",
+      "city": "Варна",
+      "office_name": "ПРЕСЛАВ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Преслав\" 69",
+      "hours": "08:45 - 13:00; 13:30 - 16:45",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2404",
+      "city": "Каварна",
+      "office_name": "КАВАРНА",
+      "type": "Клон",
+      "address_line": "ул. \"Добротица\" № 25",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "704",
+      "city": "Севлиево",
+      "office_name": "СЕВЛИЕВО",
+      "type": "Клон",
+      "address_line": "пл. \"Свобода\" № 9",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "401",
+      "city": "Велико",
+      "office_name": "Търново ВЕЛИКО ТЪРНОВО",
+      "type": "ФЦ",
+      "address_line": "ул. \"Цар Освободител\" № 3",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "701",
+      "city": "Габрово",
+      "office_name": "ГАБРОВО",
+      "type": "ФЦ",
+      "address_line": "ул. \"Николаевска\" № 17",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1001",
+      "city": "Ловеч",
+      "office_name": "ЛОВЕЧ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Търговска\" № 44",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "501",
+      "city": "Видин",
+      "office_name": "ВИДИН",
+      "type": "ФЦ",
+      "address_line": "ул. \"Търговска\" № 2",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1101",
+      "city": "Монтана",
+      "office_name": "МОНТАНА",
+      "type": "ФЦ",
+      "address_line": "ул. \"Трети март\" № 62",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "601",
+      "city": "Враца",
+      "office_name": "ВРАЦА",
+      "type": "ФЦ",
+      "address_line": "ул. \"Христо Ботев\" № 44",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "801",
+      "city": "Кърджали",
+      "office_name": "КЪРДЖАЛИ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Омуртаг\" № 1",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1502",
+      "city": "Пловдив",
+      "office_name": "ПЪЛДИН",
+      "type": "ФЦ",
+      "address_line": "ул. \"Петко Д. Петков\" № 23",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1509",
+      "city": "Карлово",
+      "office_name": "КАРЛОВО",
+      "type": "Клон",
+      "address_line": "ул. \"Васил Левски\" № 13",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1520",
+      "city": "Пловдив",
+      "office_name": "САНКТ ПЕТЕРБУРГ",
+      "type": "Клон",
+      "address_line": "ул. \"Стефан Ботев\" № 14",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1201",
+      "city": "Пазарджик",
+      "office_name": "ПАЗАРДЖИК",
+      "type": "ФЦ",
+      "address_line": "ул. \"Екзарх Йосиф\" № 3",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1530",
+      "city": "Пловдив",
+      "office_name": "МАРИЦА",
+      "type": "Клон",
+      "address_line": "ул. \"Белград\" 16",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "901",
+      "city": "Кюстендил",
+      "office_name": "КЮСТЕНДИЛ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Гороцветна\" № 14",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1302",
+      "city": "Перник",
+      "office_name": "ИЗТОК",
+      "type": "Клон",
+      "address_line": "кв. \"Изток\", ул. \"Ленински проспект\" № 1",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "908",
+      "city": "Дупница",
+      "office_name": "ДУПНИЦА",
+      "type": "Офис",
+      "address_line": "ул. \"Николаевска\" 2",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2106",
+      "city": "София",
+      "office_name": "СОФИЯ 6",
+      "type": "ФЦ",
+      "address_line": "ул. \"Дебър\" № 1",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2107",
+      "city": "София",
+      "office_name": "СТАМБОЛИЙСКИ СОФИЯ",
+      "type": "ФЦ",
+      "address_line": "бул. \"Ал. Стамболийски\" 73",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2101",
+      "city": "София",
+      "office_name": "БАТЕНБЕРГ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Княз Александър I\" № 6",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "3025",
+      "city": "София",
+      "office_name": "МОСКОВСКА",
+      "type": "ЦЧБ",
+      "address_line": "ул. \"Московска\" № 19",
+      "hours": "08:30 - 17:30",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2136",
+      "city": "София",
+      "office_name": "РАЗСАДНИКА",
+      "type": "Клон",
+      "address_line": "ж.к. \"Илинден\" бл. 129-130 A",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2301",
+      "city": "Стара",
+      "office_name": "Загора СТАРА ЗАГОРА",
+      "type": "ФЦ",
+      "address_line": "бул. \"Митрополит Методий Кусев\" № 8",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2307",
+      "city": "Стара",
+      "office_name": "Загора ТРАЯНА",
+      "type": "Клон",
+      "address_line": "бул. \"Цар Симеон Велики\" 112",
+      "hours": "09:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "213",
+      "city": "Несебър",
+      "office_name": "НЕСЕБЪР",
+      "type": "Клон",
+      "address_line": "ул. \"Хан Крум\" № 11",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "1901",
+      "city": "Сливен",
+      "office_name": "СЛИВЕН",
+      "type": "ФЦ",
+      "address_line": "ул. \"Драган Цанков\" № 2А",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2601",
+      "city": "Хасково",
+      "office_name": "ХАСКОВО",
+      "type": "ФЦ",
+      "address_line": "пл. \"Свобода\" № 9",
+      "hours": "08:30 - 13:00 ; 13:30 - 17:00",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "202",
+      "city": "Бургас",
+      "office_name": "ПРИМОРИЕ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Св.св. Кирил и Методий\" 12",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2303",
+      "city": "Казанлък",
+      "office_name": "КАЗАНЛЪК",
+      "type": "ФЦ",
+      "address_line": "бул. \"Александър Батенберг\" № 4",
+      "hours": "09:00 - 16:30",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "2801",
+      "city": "Ямбол",
+      "office_name": "ЯМБОЛ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Раковски\" № 1 A",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf"
+    },
+    {
+      "otp_id": "334",
+      "city": "Варна",
+      "office_name": "ГРАНД МОЛ ВАРНА - БЕЗКАСОВ",
+      "type": "офис",
+      "address_line": "ж.к. \"Младост\", ул. \"Акад. Андрей",
+      "hours": null,
+      "source": "работещи-офиси-през-събота-и-неделя.pdf"
+    },
+    {
+      "otp_id": "713",
+      "city": "Габрово",
+      "office_name": "ТЕРА ЦЕНТЪР ГАБРОВО",
+      "type": "офис",
+      "address_line": "бул. \"Могильов\" № 47, МОЛ \"ТЕРА",
+      "hours": null,
+      "source": "работещи-офиси-през-събота-и-неделя.pdf"
+    },
+    {
+      "otp_id": "2170",
+      "city": "София",
+      "office_name": "СЕРДИКА ЦЕНТЪР СОФИЯ",
+      "type": "Клон",
+      "address_line": "бул. \"Ситняково\" № 48",
+      "hours": "10:00 - 22:00 10:00 - 22:00 10:00 - 22:00014151",
+      "source": "работещи-офиси-през-събота-и-неделя.pdf"
+    },
+    {
+      "otp_id": "2174",
+      "city": "София",
+      "office_name": "THE MALL",
+      "type": "Клон",
+      "address_line": "бул. „Цариградско шосе“ № 115 \"З“",
+      "hours": "10:00 - 22:00 10:00 - 22:00 10:00 - 22:00013099",
+      "source": "работещи-офиси-през-събота-и-неделя.pdf"
+    },
+    {
+      "otp_id": "2150",
+      "city": "София",
+      "office_name": "МОЛ СОФИЯ - БЕЗКАСОВ ОФИС",
+      "type": "офис",
+      "address_line": "бул. \"Ал. Стамболийски\" № 101",
+      "hours": "10:00 - 21:00 10:00 - 21:00 10:00 - 21:00014109",
+      "source": "работещи-офиси-през-събота-и-неделя.pdf"
+    }
+  ]
+}
