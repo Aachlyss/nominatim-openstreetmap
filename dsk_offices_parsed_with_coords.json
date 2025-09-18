@@ -1,0 +1,1449 @@
+{
+  "count": 37,
+  "entries": [
+    {
+      "otp_id": "315",
+      "city": "Варна",
+      "office_name": "ВЛАДИСЛАВ",
+      "type": "ФЦ",
+      "address_line": "бул. \"Вл. Варненчик\" 92",
+      "hours": "08:45 - 13:00; 13:30 - 16:45",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "бул. \"Вл. Варненчик\" 92, Варна, Bulgaria",
+        "булевард Вл. Варненчик 92, Варна, Bulgaria",
+        "Варна, Bulgaria",
+        "бул. \"Вл. Варненчик\" 92",
+        "булевард Вл. Варненчик 92"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Варна",
+          "street": "бул. \"Вл. Варненчик\" 92"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Варна",
+          "street": "булевард Вл. Варненчик 92"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "337",
+      "city": "Варна",
+      "office_name": "ПРЕСЛАВ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Преслав\" 69",
+      "hours": "08:45 - 13:00; 13:30 - 16:45",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Преслав\" 69, Варна, Bulgaria",
+        "улица Преслав 69, Варна, Bulgaria",
+        "Варна, Bulgaria",
+        "ул. \"Преслав\" 69",
+        "улица Преслав 69"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Варна",
+          "street": "ул. \"Преслав\" 69"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Варна",
+          "street": "улица Преслав 69"
+        }
+      ],
+      "latitude": 41.6510779,
+      "longitude": 25.3739721,
+      "geocoded_address": "Преслав, Байкал, Кърджали, 6600, България",
+      "geocode_osm_type": "residential",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 53828034,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05339322575722893,
+      "geocode_query": "ул. \"Преслав\" 69",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "2404",
+      "city": "Каварна",
+      "office_name": "КАВАРНА",
+      "type": "Клон",
+      "address_line": "ул. \"Добротица\" № 25",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Добротица\" № 25, Каварна, Bulgaria",
+        "улица Добротица номер 25, Каварна, Bulgaria",
+        "Каварна, Bulgaria",
+        "ул. \"Добротица\" № 25",
+        "улица Добротица номер 25"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Каварна",
+          "street": "ул. \"Добротица\" № 25"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Каварна",
+          "street": "улица Добротица номер 25"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "704",
+      "city": "Севлиево",
+      "office_name": "СЕВЛИЕВО",
+      "type": "Клон",
+      "address_line": "пл. \"Свобода\" № 9",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "пл. \"Свобода\" № 9, Севлиево, Bulgaria",
+        "площад Свобода номер 9, Севлиево, Bulgaria",
+        "Севлиево, Bulgaria",
+        "пл. \"Свобода\" № 9",
+        "площад Свобода номер 9"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Севлиево",
+          "street": "пл. \"Свобода\" № 9"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Севлиево",
+          "street": "площад Свобода номер 9"
+        }
+      ],
+      "latitude": 43.0262513,
+      "longitude": 25.1042174,
+      "geocoded_address": "пл. Свобода, Севлиево, Габрово, 5400, България",
+      "geocode_osm_type": "pedestrian",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 54733275,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05339173037308305,
+      "geocode_query": {
+        "country": "Bulgaria",
+        "city": "Севлиево",
+        "street": "пл. \"Свобода\" № 9"
+      },
+      "geocode_context": {
+        "structured": true,
+        "bounded": true,
+        "viewbox": [
+          [
+            42.944248,
+            25.057322
+          ],
+          [
+            43.066388,
+            25.162768
+          ]
+        ]
+      }
+    },
+    {
+      "otp_id": "401",
+      "city": "Велико",
+      "office_name": "Търново ВЕЛИКО ТЪРНОВО",
+      "type": "ФЦ",
+      "address_line": "ул. \"Цар Освободител\" № 3",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Цар Освободител\" № 3, Велико, Bulgaria",
+        "улица Цар Освободител номер 3, Велико, Bulgaria",
+        "Велико, Bulgaria",
+        "ул. \"Цар Освободител\" № 3",
+        "улица Цар Освободител номер 3"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Велико",
+          "street": "ул. \"Цар Освободител\" № 3"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Велико",
+          "street": "улица Цар Освободител номер 3"
+        }
+      ],
+      "latitude": 43.2073838,
+      "longitude": 27.9241305,
+      "geocoded_address": "бул. Цар Освободител, Гръцката махала, Център, Варна, Одесос, Варна, 9001, България",
+      "geocode_osm_type": "secondary",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 54832849,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05340310597390704,
+      "geocode_query": "ул. \"Цар Освободител\" № 3",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "701",
+      "city": "Габрово",
+      "office_name": "ГАБРОВО",
+      "type": "ФЦ",
+      "address_line": "ул. \"Николаевска\" № 17",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Николаевска\" № 17, Габрово, Bulgaria",
+        "улица Николаевска номер 17, Габрово, Bulgaria",
+        "Габрово, Bulgaria",
+        "ул. \"Николаевска\" № 17",
+        "улица Николаевска номер 17"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Габрово",
+          "street": "ул. \"Николаевска\" № 17"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Габрово",
+          "street": "улица Николаевска номер 17"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "1001",
+      "city": "Ловеч",
+      "office_name": "ЛОВЕЧ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Търговска\" № 44",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Търговска\" № 44, Ловеч, Bulgaria",
+        "улица Търговска номер 44, Ловеч, Bulgaria",
+        "Ловеч, Bulgaria",
+        "ул. \"Търговска\" № 44",
+        "улица Търговска номер 44"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Ловеч",
+          "street": "ул. \"Търговска\" № 44"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Ловеч",
+          "street": "улица Търговска номер 44"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "501",
+      "city": "Видин",
+      "office_name": "ВИДИН",
+      "type": "ФЦ",
+      "address_line": "ул. \"Търговска\" № 2",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Търговска\" № 2, Видин, Bulgaria",
+        "улица Търговска номер 2, Видин, Bulgaria",
+        "Видин, Bulgaria",
+        "ул. \"Търговска\" № 2",
+        "улица Търговска номер 2"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Видин",
+          "street": "ул. \"Търговска\" № 2"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Видин",
+          "street": "улица Търговска номер 2"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "1101",
+      "city": "Монтана",
+      "office_name": "МОНТАНА",
+      "type": "ФЦ",
+      "address_line": "ул. \"Трети март\" № 62",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Трети март\" № 62, Монтана, Bulgaria",
+        "улица Трети март номер 62, Монтана, Bulgaria",
+        "Монтана, Bulgaria",
+        "ул. \"Трети март\" № 62",
+        "улица Трети март номер 62"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Монтана",
+          "street": "ул. \"Трети март\" № 62"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Монтана",
+          "street": "улица Трети март номер 62"
+        }
+      ],
+      "latitude": 43.562644,
+      "longitude": 27.8230252,
+      "geocoded_address": "ул. Л. Каравелов, бул. 3-ти март, ЦГЧ, Добрич, 9300, България",
+      "geocode_osm_type": "bus_stop",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 54934113,
+      "geocode_place_rank": 30,
+      "geocode_quality": 4,
+      "geocode_importance": 6.120927748526768e-05,
+      "geocode_query": "ул. \"Трети март\" № 62",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "601",
+      "city": "Враца",
+      "office_name": "ВРАЦА",
+      "type": "ФЦ",
+      "address_line": "ул. \"Христо Ботев\" № 44",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Христо Ботев\" № 44, Враца, Bulgaria",
+        "улица Христо Ботев номер 44, Враца, Bulgaria",
+        "Враца, Bulgaria",
+        "ул. \"Христо Ботев\" № 44",
+        "улица Христо Ботев номер 44"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Враца",
+          "street": "ул. \"Христо Ботев\" № 44"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Враца",
+          "street": "улица Христо Ботев номер 44"
+        }
+      ],
+      "latitude": 42.0580339,
+      "longitude": 23.0539354,
+      "geocoded_address": "ул. Христо Ботев, Кв. Левски, Кочериново, Бараково, Кочериново, Кюстендил, 2710, България",
+      "geocode_osm_type": "unclassified",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 53687247,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.053395925078202455,
+      "geocode_query": "ул. \"Христо Ботев\" № 44",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "801",
+      "city": "Кърджали",
+      "office_name": "КЪРДЖАЛИ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Омуртаг\" № 1",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Омуртаг\" № 1, Кърджали, Bulgaria",
+        "улица Омуртаг номер 1, Кърджали, Bulgaria",
+        "Кърджали, Bulgaria",
+        "ул. \"Омуртаг\" № 1",
+        "улица Омуртаг номер 1"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Кърджали",
+          "street": "ул. \"Омуртаг\" № 1"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Кърджали",
+          "street": "улица Омуртаг номер 1"
+        }
+      ],
+      "latitude": 43.0236561,
+      "longitude": 26.5197989,
+      "geocoded_address": "Ul. Krayna, Могилец, Омуртаг, Търговище, България",
+      "geocode_osm_type": "residential",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 54598365,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.053388838788433625,
+      "geocode_query": "ул. \"Омуртаг\" № 1",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "1502",
+      "city": "Пловдив",
+      "office_name": "ПЪЛДИН",
+      "type": "ФЦ",
+      "address_line": "ул. \"Петко Д. Петков\" № 23",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Петко Д. Петков\" № 23, Пловдив, Bulgaria",
+        "улица Петко Д. Петков номер 23, Пловдив, Bulgaria",
+        "Пловдив, Bulgaria",
+        "ул. \"Петко Д. Петков\" № 23",
+        "улица Петко Д. Петков номер 23"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Пловдив",
+          "street": "ул. \"Петко Д. Петков\" № 23"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Пловдив",
+          "street": "улица Петко Д. Петков номер 23"
+        }
+      ],
+      "latitude": 42.1407811,
+      "longitude": 24.7558714,
+      "geocoded_address": "ул. Петко Д. Петков, Петко Д. Петков, Военна болница, Централен, Пловдив, 4000, България",
+      "geocode_osm_type": "bus_stop",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 54770122,
+      "geocode_place_rank": 30,
+      "geocode_quality": 4,
+      "geocode_importance": 7.000152590214416e-05,
+      "geocode_query": "ул. \"Петко Д. Петков\" № 23, Пловдив, Bulgaria",
+      "geocode_context": {
+        "structured": false,
+        "bounded": true,
+        "viewbox": [
+          [
+            41.971854,
+            24.57993
+          ],
+          [
+            42.311854,
+            24.91993
+          ]
+        ]
+      }
+    },
+    {
+      "otp_id": "1509",
+      "city": "Карлово",
+      "office_name": "КАРЛОВО",
+      "type": "Клон",
+      "address_line": "ул. \"Васил Левски\" № 13",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Васил Левски\" № 13, Карлово, Bulgaria",
+        "улица Васил Левски номер 13, Карлово, Bulgaria",
+        "Карлово, Bulgaria",
+        "ул. \"Васил Левски\" № 13",
+        "улица Васил Левски номер 13"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Карлово",
+          "street": "ул. \"Васил Левски\" № 13"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Карлово",
+          "street": "улица Васил Левски номер 13"
+        }
+      ],
+      "latitude": 42.7752827,
+      "longitude": 27.8155139,
+      "geocoded_address": "улица Васил Левски, Баня, Несебър, Бургас, 8239, България",
+      "geocode_osm_type": "residential",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 55022324,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05338687647821771,
+      "geocode_query": "ул. \"Васил Левски\" № 13",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "1520",
+      "city": "Пловдив",
+      "office_name": "САНКТ ПЕТЕРБУРГ",
+      "type": "Клон",
+      "address_line": "ул. \"Стефан Ботев\" № 14",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Стефан Ботев\" № 14, Пловдив, Bulgaria",
+        "улица Стефан Ботев номер 14, Пловдив, Bulgaria",
+        "Пловдив, Bulgaria",
+        "ул. \"Стефан Ботев\" № 14",
+        "улица Стефан Ботев номер 14"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Пловдив",
+          "street": "ул. \"Стефан Ботев\" № 14"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Пловдив",
+          "street": "улица Стефан Ботев номер 14"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "1201",
+      "city": "Пазарджик",
+      "office_name": "ПАЗАРДЖИК",
+      "type": "ФЦ",
+      "address_line": "ул. \"Екзарх Йосиф\" № 3",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Екзарх Йосиф\" № 3, Пазарджик, Bulgaria",
+        "улица Екзарх Йосиф номер 3, Пазарджик, Bulgaria",
+        "Пазарджик, Bulgaria",
+        "ул. \"Екзарх Йосиф\" № 3",
+        "улица Екзарх Йосиф номер 3"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Пазарджик",
+          "street": "ул. \"Екзарх Йосиф\" № 3"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Пазарджик",
+          "street": "улица Екзарх Йосиф номер 3"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "1530",
+      "city": "Пловдив",
+      "office_name": "МАРИЦА",
+      "type": "Клон",
+      "address_line": "ул. \"Белград\" 16",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Белград\" 16, Пловдив, Bulgaria",
+        "улица Белград 16, Пловдив, Bulgaria",
+        "Пловдив, Bulgaria",
+        "ул. \"Белград\" 16",
+        "улица Белград 16"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Пловдив",
+          "street": "ул. \"Белград\" 16"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Пловдив",
+          "street": "улица Белград 16"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "901",
+      "city": "Кюстендил",
+      "office_name": "КЮСТЕНДИЛ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Гороцветна\" № 14",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Гороцветна\" № 14, Кюстендил, Bulgaria",
+        "улица Гороцветна номер 14, Кюстендил, Bulgaria",
+        "Кюстендил, Bulgaria",
+        "ул. \"Гороцветна\" № 14",
+        "улица Гороцветна номер 14"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Кюстендил",
+          "street": "ул. \"Гороцветна\" № 14"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Кюстендил",
+          "street": "улица Гороцветна номер 14"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "1302",
+      "city": "Перник",
+      "office_name": "ИЗТОК",
+      "type": "Клон",
+      "address_line": "кв. \"Изток\", ул. \"Ленински проспект\" № 1",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "кв. \"Изток\", ул. \"Ленински проспект\" № 1, Перник, Bulgaria",
+        "квартал Изток , улица Ленински проспект номер 1, Перник, Bulgaria",
+        "Перник, Bulgaria",
+        "кв. \"Изток\", ул. \"Ленински проспект\" № 1",
+        "квартал Изток , улица Ленински проспект номер 1"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Перник",
+          "street": "кв. \"Изток\", ул. \"Ленински проспект\" № 1"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Перник",
+          "street": "квартал Изток , улица Ленински проспект номер 1"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "908",
+      "city": "Дупница",
+      "office_name": "ДУПНИЦА",
+      "type": "Офис",
+      "address_line": "ул. \"Николаевска\" 2",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Николаевска\" 2, Дупница, Bulgaria",
+        "улица Николаевска 2, Дупница, Bulgaria",
+        "Дупница, Bulgaria",
+        "ул. \"Николаевска\" 2",
+        "улица Николаевска 2"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Дупница",
+          "street": "ул. \"Николаевска\" 2"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Дупница",
+          "street": "улица Николаевска 2"
+        }
+      ],
+      "latitude": 43.8344108,
+      "longitude": 25.9546607,
+      "geocoded_address": "Централна жп гара, ул. Николаевска, Николаевска, ж.к. Гарата, ж.к. Мидия-Енос, Русе, 7001, България",
+      "geocode_osm_type": "bus_stop",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 54983345,
+      "geocode_place_rank": 30,
+      "geocode_quality": 4,
+      "geocode_importance": 6.548790722510136e-05,
+      "geocode_query": "ул. \"Николаевска\" 2",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "2106",
+      "city": "София",
+      "office_name": "СОФИЯ 6",
+      "type": "ФЦ",
+      "address_line": "ул. \"Дебър\" № 1",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Дебър\" № 1, София, Bulgaria",
+        "улица Дебър номер 1, София, Bulgaria",
+        "София, Bulgaria",
+        "ул. \"Дебър\" № 1",
+        "улица Дебър номер 1"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "ул. \"Дебър\" № 1"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "улица Дебър номер 1"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "2107",
+      "city": "София",
+      "office_name": "СТАМБОЛИЙСКИ СОФИЯ",
+      "type": "ФЦ",
+      "address_line": "бул. \"Ал. Стамболийски\" 73",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "бул. \"Ал. Стамболийски\" 73, София, Bulgaria",
+        "булевард Ал. Стамболийски 73, София, Bulgaria",
+        "София, Bulgaria",
+        "бул. \"Ал. Стамболийски\" 73",
+        "булевард Ал. Стамболийски 73"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "бул. \"Ал. Стамболийски\" 73"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "булевард Ал. Стамболийски 73"
+        }
+      ],
+      "latitude": 44.1145701,
+      "longitude": 27.2639166,
+      "geocoded_address": "бул. Ал.Стамболийски, Център, Силистра, 7500, България",
+      "geocode_osm_type": "residential",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 55241397,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05339582436865793,
+      "geocode_query": "бул. \"Ал. Стамболийски\" 73",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "2101",
+      "city": "София",
+      "office_name": "БАТЕНБЕРГ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Княз Александър I\" № 6",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Княз Александър I\" № 6, София, Bulgaria",
+        "улица Княз Александър I номер 6, София, Bulgaria",
+        "София, Bulgaria",
+        "ул. \"Княз Александър I\" № 6",
+        "улица Княз Александър I номер 6"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "ул. \"Княз Александър I\" № 6"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "улица Княз Александър I номер 6"
+        }
+      ],
+      "latitude": 42.6950174,
+      "longitude": 23.3242812,
+      "geocoded_address": "Княз Александър I, Център, София, Средец, Столична, София-град, 1000, България",
+      "geocode_osm_type": "residential",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 53884677,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05340224994277863,
+      "geocode_query": {
+        "country": "Bulgaria",
+        "city": "София",
+        "street": "ул. \"Княз Александър I\" № 6"
+      },
+      "geocode_context": {
+        "structured": true,
+        "bounded": true,
+        "viewbox": [
+          [
+            42.547985,
+            23.157997
+          ],
+          [
+            42.874302,
+            23.631582
+          ]
+        ]
+      }
+    },
+    {
+      "otp_id": "3025",
+      "city": "София",
+      "office_name": "МОСКОВСКА",
+      "type": "ЦЧБ",
+      "address_line": "ул. \"Московска\" № 19",
+      "hours": "08:30 - 17:30",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Московска\" № 19, София, Bulgaria",
+        "улица Московска номер 19, София, Bulgaria",
+        "София, Bulgaria",
+        "ул. \"Московска\" № 19",
+        "улица Московска номер 19"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "ул. \"Московска\" № 19"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "улица Московска номер 19"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "2136",
+      "city": "София",
+      "office_name": "РАЗСАДНИКА",
+      "type": "Клон",
+      "address_line": "ж.к. \"Илинден\" бл. 129-130 A",
+      "hours": "08:45 - 16:45",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ж.к. \"Илинден\" бл. 129-130 A, София, Bulgaria",
+        "жилищен комплекс Илинден бл. 129-130 A, София, Bulgaria",
+        "София, Bulgaria",
+        "ж.к. \"Илинден\" бл. 129-130 A",
+        "жилищен комплекс Илинден бл. 129-130 A"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "ж.к. \"Илинден\" бл. 129-130 A"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "жилищен комплекс Илинден бл. 129-130 A"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "2301",
+      "city": "Стара",
+      "office_name": "Загора СТАРА ЗАГОРА",
+      "type": "ФЦ",
+      "address_line": "бул. \"Митрополит Методий Кусев\" № 8",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "бул. \"Митрополит Методий Кусев\" № 8, Стара, Bulgaria",
+        "булевард Митрополит Методий Кусев номер 8, Стара, Bulgaria",
+        "Стара, Bulgaria",
+        "бул. \"Митрополит Методий Кусев\" № 8",
+        "булевард Митрополит Методий Кусев номер 8"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Стара",
+          "street": "бул. \"Митрополит Методий Кусев\" № 8"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Стара",
+          "street": "булевард Митрополит Методий Кусев номер 8"
+        }
+      ],
+      "latitude": 42.0744032,
+      "longitude": 24.3934146,
+      "geocoded_address": "Стара, Исперихово, Брацигово, Пазарджик, България",
+      "geocode_osm_type": "river",
+      "geocode_osm_class": "waterway",
+      "geocode_place_id": 54878368,
+      "geocode_place_rank": 19,
+      "geocode_quality": 0,
+      "geocode_importance": 0.146727425803006,
+      "geocode_query": "Стара, Bulgaria",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "2307",
+      "city": "Стара",
+      "office_name": "Загора ТРАЯНА",
+      "type": "Клон",
+      "address_line": "бул. \"Цар Симеон Велики\" 112",
+      "hours": "09:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "бул. \"Цар Симеон Велики\" 112, Стара, Bulgaria",
+        "булевард Цар Симеон Велики 112, Стара, Bulgaria",
+        "Стара, Bulgaria",
+        "бул. \"Цар Симеон Велики\" 112",
+        "булевард Цар Симеон Велики 112"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Стара",
+          "street": "бул. \"Цар Симеон Велики\" 112"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Стара",
+          "street": "булевард Цар Симеон Велики 112"
+        }
+      ],
+      "latitude": 42.4246914,
+      "longitude": 25.6307564,
+      "geocoded_address": "Банка ДСК, 112, бул. Цар Симеон Велики, ж.к. Орбита, кв. Централна градска част, Стара Загора, 6000, България",
+      "geocode_osm_type": "bank",
+      "geocode_osm_class": "amenity",
+      "geocode_place_id": 400196073,
+      "geocode_place_rank": 30,
+      "geocode_quality": 10,
+      "geocode_importance": 6.409628442812265e-05,
+      "geocode_query": {
+        "country": "Bulgaria",
+        "city": "Стара",
+        "street": "бул. \"Цар Симеон Велики\" 112"
+      },
+      "geocode_context": {
+        "structured": true,
+        "bounded": true,
+        "viewbox": [
+          [
+            42.254811,
+            25.455748
+          ],
+          [
+            42.594811,
+            25.795748
+          ]
+        ]
+      }
+    },
+    {
+      "otp_id": "213",
+      "city": "Несебър",
+      "office_name": "НЕСЕБЪР",
+      "type": "Клон",
+      "address_line": "ул. \"Хан Крум\" № 11",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Хан Крум\" № 11, Несебър, Bulgaria",
+        "улица Хан Крум номер 11, Несебър, Bulgaria",
+        "Несебър, Bulgaria",
+        "ул. \"Хан Крум\" № 11",
+        "улица Хан Крум номер 11"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Несебър",
+          "street": "ул. \"Хан Крум\" № 11"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Несебър",
+          "street": "улица Хан Крум номер 11"
+        }
+      ],
+      "latitude": 42.1273899,
+      "longitude": 24.7862659,
+      "geocoded_address": "ул. Цар Симеон, Недялка Шилева, Кан Крум, Тракия, Пловдив, 4023, България",
+      "geocode_osm_type": "bus_stop",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 54963109,
+      "geocode_place_rank": 30,
+      "geocode_quality": 4,
+      "geocode_importance": 7.000152590214416e-05,
+      "geocode_query": "ул. \"Хан Крум\" № 11",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "1901",
+      "city": "Сливен",
+      "office_name": "СЛИВЕН",
+      "type": "ФЦ",
+      "address_line": "ул. \"Драган Цанков\" № 2А",
+      "hours": "08:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Драган Цанков\" № 2А, Сливен, Bulgaria",
+        "улица Драган Цанков номер 2А, Сливен, Bulgaria",
+        "Сливен, Bulgaria",
+        "ул. \"Драган Цанков\" № 2А",
+        "улица Драган Цанков номер 2А"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Сливен",
+          "street": "ул. \"Драган Цанков\" № 2А"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Сливен",
+          "street": "улица Драган Цанков номер 2А"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "2601",
+      "city": "Хасково",
+      "office_name": "ХАСКОВО",
+      "type": "ФЦ",
+      "address_line": "пл. \"Свобода\" № 9",
+      "hours": "08:30 - 13:00 ; 13:30 - 17:00",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "пл. \"Свобода\" № 9, Хасково, Bulgaria",
+        "площад Свобода номер 9, Хасково, Bulgaria",
+        "Хасково, Bulgaria",
+        "пл. \"Свобода\" № 9",
+        "площад Свобода номер 9"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Хасково",
+          "street": "пл. \"Свобода\" № 9"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Хасково",
+          "street": "площад Свобода номер 9"
+        }
+      ],
+      "latitude": 43.8487583,
+      "longitude": 25.9534517,
+      "geocoded_address": "пл. Свобода, Център, Русе, 7000, България",
+      "geocode_osm_type": "pedestrian",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 397142160,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05339882124055845,
+      "geocode_query": "пл. \"Свобода\" № 9",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "202",
+      "city": "Бургас",
+      "office_name": "ПРИМОРИЕ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Св.св. Кирил и Методий\" 12",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Св.св. Кирил и Методий\" 12, Бургас, Bulgaria",
+        "улица Св.св. Кирил и Методий 12, Бургас, Bulgaria",
+        "Бургас, Bulgaria",
+        "ул. \"Св.св. Кирил и Методий\" 12",
+        "улица Св.св. Кирил и Методий 12"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Бургас",
+          "street": "ул. \"Св.св. Кирил и Методий\" 12"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Бургас",
+          "street": "улица Св.св. Кирил и Методий 12"
+        }
+      ],
+      "latitude": 41.6486075,
+      "longitude": 25.3748371,
+      "geocoded_address": "12, Свети Кирил и Методий, Байкал, Кърджали, 6600, България",
+      "geocode_osm_type": "yes",
+      "geocode_osm_class": "building",
+      "geocode_place_id": 54206078,
+      "geocode_place_rank": 30,
+      "geocode_quality": 10,
+      "geocode_importance": 5.989242389558278e-05,
+      "geocode_query": "ул. \"Св.св. Кирил и Методий\" 12",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "2303",
+      "city": "Казанлък",
+      "office_name": "КАЗАНЛЪК",
+      "type": "ФЦ",
+      "address_line": "бул. \"Александър Батенберг\" № 4",
+      "hours": "09:00 - 16:30",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "бул. \"Александър Батенберг\" № 4, Казанлък, Bulgaria",
+        "булевард Александър Батенберг номер 4, Казанлък, Bulgaria",
+        "Казанлък, Bulgaria",
+        "бул. \"Александър Батенберг\" № 4",
+        "булевард Александър Батенберг номер 4"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Казанлък",
+          "street": "бул. \"Александър Батенберг\" № 4"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Казанлък",
+          "street": "булевард Александър Батенберг номер 4"
+        }
+      ],
+      "latitude": 42.4243435,
+      "longitude": 25.6161402,
+      "geocoded_address": "бул. Княз Александър Батенберг, кв. Македонски, Стара Загора, 6003, България",
+      "geocode_osm_type": "residential",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 55123083,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05339742961776146,
+      "geocode_query": "бул. \"Александър Батенберг\" № 4",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    },
+    {
+      "otp_id": "2801",
+      "city": "Ямбол",
+      "office_name": "ЯМБОЛ",
+      "type": "ФЦ",
+      "address_line": "ул. \"Раковски\" № 1 A",
+      "hours": "08:30 - 16:30",
+      "source": "Branches.pdf",
+      "geocode_candidates": [
+        "ул. \"Раковски\" № 1 A, Ямбол, Bulgaria",
+        "улица Раковски номер 1 A, Ямбол, Bulgaria",
+        "Ямбол, Bulgaria",
+        "ул. \"Раковски\" № 1 A",
+        "улица Раковски номер 1 A"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Ямбол",
+          "street": "ул. \"Раковски\" № 1 A"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Ямбол",
+          "street": "улица Раковски номер 1 A"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "334",
+      "city": "Варна",
+      "office_name": "ГРАНД МОЛ ВАРНА - БЕЗКАСОВ",
+      "type": "офис",
+      "address_line": "ж.к. \"Младост\", ул. \"Акад. Андрей",
+      "hours": null,
+      "source": "работещи-офиси-през-събота-и-неделя.pdf",
+      "geocode_candidates": [
+        "ж.к. \"Младост\", ул. \"Акад. Андрей, Варна, Bulgaria",
+        "жилищен комплекс Младост , улица Акад. Андрей, Варна, Bulgaria",
+        "Варна, Bulgaria",
+        "ж.к. \"Младост\", ул. \"Акад. Андрей",
+        "жилищен комплекс Младост , улица Акад. Андрей"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Варна",
+          "street": "ж.к. \"Младост\", ул. \"Акад. Андрей"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Варна",
+          "street": "жилищен комплекс Младост , улица Акад. Андрей"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "713",
+      "city": "Габрово",
+      "office_name": "ТЕРА ЦЕНТЪР ГАБРОВО",
+      "type": "офис",
+      "address_line": "бул. \"Могильов\" № 47, МОЛ \"ТЕРА",
+      "hours": null,
+      "source": "работещи-офиси-през-събота-и-неделя.pdf",
+      "geocode_candidates": [
+        "бул. \"Могильов\" № 47, МОЛ \"ТЕРА, Габрово, Bulgaria",
+        "булевард Могильов номер 47, МОЛ ТЕРА, Габрово, Bulgaria",
+        "Габрово, Bulgaria",
+        "бул. \"Могильов\" № 47, МОЛ \"ТЕРА",
+        "булевард Могильов номер 47, МОЛ ТЕРА"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "Габрово",
+          "street": "бул. \"Могильов\" № 47, МОЛ \"ТЕРА"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "Габрово",
+          "street": "булевард Могильов номер 47, МОЛ ТЕРА"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "otp_id": "2170",
+      "city": "София",
+      "office_name": "СЕРДИКА ЦЕНТЪР СОФИЯ",
+      "type": "Клон",
+      "address_line": "бул. \"Ситняково\" № 48",
+      "hours": "10:00 - 22:00 10:00 - 22:00 10:00 - 22:00014151",
+      "source": "работещи-офиси-през-събота-и-неделя.pdf",
+      "geocode_candidates": [
+        "бул. \"Ситняково\" № 48, София, Bulgaria",
+        "булевард Ситняково номер 48, София, Bulgaria",
+        "София, Bulgaria",
+        "бул. \"Ситняково\" № 48",
+        "булевард Ситняково номер 48"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "бул. \"Ситняково\" № 48"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "булевард Ситняково номер 48"
+        }
+      ],
+      "latitude": 42.6890527,
+      "longitude": 23.3531114,
+      "geocoded_address": "бул. Ситняково, кв. Подуяне, София, Оборище, Столична, София-град, 1505, България",
+      "geocode_osm_type": "primary",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 53544620,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05340224994277863,
+      "geocode_query": {
+        "country": "Bulgaria",
+        "city": "София",
+        "street": "бул. \"Ситняково\" № 48"
+      },
+      "geocode_context": {
+        "structured": true,
+        "bounded": true,
+        "viewbox": [
+          [
+            42.547985,
+            23.157997
+          ],
+          [
+            42.874302,
+            23.631582
+          ]
+        ]
+      }
+    },
+    {
+      "otp_id": "2174",
+      "city": "София",
+      "office_name": "THE MALL",
+      "type": "Клон",
+      "address_line": "бул. „Цариградско шосе“ № 115 \"З“",
+      "hours": "10:00 - 22:00 10:00 - 22:00 10:00 - 22:00013099",
+      "source": "работещи-офиси-през-събота-и-неделя.pdf",
+      "geocode_candidates": [
+        "бул. „Цариградско шосе“ № 115 \"З“, София, Bulgaria",
+        "булевард Цариградско шосе номер 115 З, София, Bulgaria",
+        "София, Bulgaria",
+        "бул. „Цариградско шосе“ № 115 \"З“",
+        "булевард Цариградско шосе номер 115 З"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "бул. „Цариградско шосе“ № 115 \"З“"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "булевард Цариградско шосе номер 115 З"
+        }
+      ],
+      "latitude": 42.6342814,
+      "longitude": 23.4391668,
+      "geocoded_address": "бул. Цариградско шосе, в.з. Врана - Лозен триъгълника, Лозен, Панчарево, Столична, София-град, 1186, България",
+      "geocode_osm_type": "trunk",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 52782800,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05340224994277863,
+      "geocode_query": {
+        "country": "Bulgaria",
+        "city": "София",
+        "street": "бул. „Цариградско шосе“ № 115 \"З“"
+      },
+      "geocode_context": {
+        "structured": true,
+        "bounded": true,
+        "viewbox": [
+          [
+            42.547985,
+            23.157997
+          ],
+          [
+            42.874302,
+            23.631582
+          ]
+        ]
+      }
+    },
+    {
+      "otp_id": "2150",
+      "city": "София",
+      "office_name": "МОЛ СОФИЯ - БЕЗКАСОВ ОФИС",
+      "type": "офис",
+      "address_line": "бул. \"Ал. Стамболийски\" № 101",
+      "hours": "10:00 - 21:00 10:00 - 21:00 10:00 - 21:00014109",
+      "source": "работещи-офиси-през-събота-и-неделя.pdf",
+      "geocode_candidates": [
+        "бул. \"Ал. Стамболийски\" № 101, София, Bulgaria",
+        "булевард Ал. Стамболийски номер 101, София, Bulgaria",
+        "София, Bulgaria",
+        "бул. \"Ал. Стамболийски\" № 101",
+        "булевард Ал. Стамболийски номер 101"
+      ],
+      "geocode_structured_candidates": [
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "бул. \"Ал. Стамболийски\" № 101"
+        },
+        {
+          "country": "Bulgaria",
+          "city": "София",
+          "street": "булевард Ал. Стамболийски номер 101"
+        }
+      ],
+      "latitude": 44.1145701,
+      "longitude": 27.2639166,
+      "geocoded_address": "бул. Ал.Стамболийски, Център, Силистра, 7500, България",
+      "geocode_osm_type": "residential",
+      "geocode_osm_class": "highway",
+      "geocode_place_id": 55241397,
+      "geocode_place_rank": 26,
+      "geocode_quality": 4,
+      "geocode_importance": 0.05339582436865793,
+      "geocode_query": "бул. \"Ал. Стамболийски\" № 101",
+      "geocode_context": {
+        "structured": false,
+        "bounded": false,
+        "viewbox": null
+      }
+    }
+  ]
+}

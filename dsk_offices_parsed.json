@@ -6,7 +6,7 @@
       "city": "Варна",
       "office_name": "ВЛАДИСЛАВ",
       "type": "ФЦ",
-      "address_line": "бул. \"Вл. Варненчик\" 92",
+      "address_line": "Варненчик 92",
       "hours": "08:45 - 13:00; 13:30 - 16:45",
       "source": "Branches.pdf"
     },
@@ -15,7 +15,7 @@
       "city": "Варна",
       "office_name": "ПРЕСЛАВ",
       "type": "ФЦ",
-      "address_line": "ул. \"Преслав\" 69",
+      "address_line": "Преслав 69",
       "hours": "08:45 - 13:00; 13:30 - 16:45",
       "source": "Branches.pdf"
     },
@@ -24,7 +24,7 @@
       "city": "Каварна",
       "office_name": "КАВАРНА",
       "type": "Клон",
-      "address_line": "ул. \"Добротица\" № 25",
+      "address_line": "Добротица 25",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -33,7 +33,7 @@
       "city": "Севлиево",
       "office_name": "СЕВЛИЕВО",
       "type": "Клон",
-      "address_line": "пл. \"Свобода\" № 9",
+      "address_line": "Свобода 9",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -42,7 +42,7 @@
       "city": "Велико",
       "office_name": "Търново ВЕЛИКО ТЪРНОВО",
       "type": "ФЦ",
-      "address_line": "ул. \"Цар Освободител\" № 3",
+      "address_line": "Цар Освободител 3",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -51,7 +51,7 @@
       "city": "Габрово",
       "office_name": "ГАБРОВО",
       "type": "ФЦ",
-      "address_line": "ул. \"Николаевска\" № 17",
+      "address_line": "Николаевска 17",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -60,7 +60,7 @@
       "city": "Ловеч",
       "office_name": "ЛОВЕЧ",
       "type": "ФЦ",
-      "address_line": "ул. \"Търговска\" № 44",
+      "address_line": "Търговска 44",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -69,7 +69,7 @@
       "city": "Видин",
       "office_name": "ВИДИН",
       "type": "ФЦ",
-      "address_line": "ул. \"Търговска\" № 2",
+      "address_line": "Търговска 2",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -78,7 +78,7 @@
       "city": "Монтана",
       "office_name": "МОНТАНА",
       "type": "ФЦ",
-      "address_line": "ул. \"Трети март\" № 62",
+      "address_line": "Трети март 62",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -87,7 +87,7 @@
       "city": "Враца",
       "office_name": "ВРАЦА",
       "type": "ФЦ",
-      "address_line": "ул. \"Христо Ботев\" № 44",
+      "address_line": "Христо Ботев 44",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -96,7 +96,7 @@
       "city": "Кърджали",
       "office_name": "КЪРДЖАЛИ",
       "type": "ФЦ",
-      "address_line": "ул. \"Омуртаг\" № 1",
+      "address_line": "Омуртаг 1",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -105,7 +105,7 @@
       "city": "Пловдив",
       "office_name": "ПЪЛДИН",
       "type": "ФЦ",
-      "address_line": "ул. \"Петко Д. Петков\" № 23",
+      "address_line": "Петко Д. Петков 23",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -114,7 +114,7 @@
       "city": "Карлово",
       "office_name": "КАРЛОВО",
       "type": "Клон",
-      "address_line": "ул. \"Васил Левски\" № 13",
+      "address_line": "Васил Левски 13",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -123,7 +123,7 @@
       "city": "Пловдив",
       "office_name": "САНКТ ПЕТЕРБУРГ",
       "type": "Клон",
-      "address_line": "ул. \"Стефан Ботев\" № 14",
+      "address_line": "Стефан Ботев 14",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -132,7 +132,7 @@
       "city": "Пазарджик",
       "office_name": "ПАЗАРДЖИК",
       "type": "ФЦ",
-      "address_line": "ул. \"Екзарх Йосиф\" № 3",
+      "address_line": "Екзарх Йосиф 3",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -141,7 +141,7 @@
       "city": "Пловдив",
       "office_name": "МАРИЦА",
       "type": "Клон",
-      "address_line": "ул. \"Белград\" 16",
+      "address_line": "Белград 16",
       "hours": "08:30 - 16:30",
       "source": "Branches.pdf"
     },
@@ -150,7 +150,7 @@
       "city": "Кюстендил",
       "office_name": "КЮСТЕНДИЛ",
       "type": "ФЦ",
-      "address_line": "ул. \"Гороцветна\" № 14",
+      "address_line": "Гороцветна 14",
       "hours": "08:45 - 16:45",
       "source": "Branches.pdf"
     },
@@ -159,7 +159,7 @@
       "city": "Перник",
       "office_name": "ИЗТОК",
       "type": "Клон",
-      "address_line": "кв. \"Изток\", ул. \"Ленински проспект\" № 1",
+      "address_line": "Изток Ленински проспект 1",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -168,7 +168,7 @@
       "city": "Дупница",
       "office_name": "ДУПНИЦА",
       "type": "Офис",
-      "address_line": "ул. \"Николаевска\" 2",
+      "address_line": "Николаевска 2",
       "hours": "08:45 - 16:45",
       "source": "Branches.pdf"
     },
@@ -177,7 +177,7 @@
       "city": "София",
       "office_name": "СОФИЯ 6",
       "type": "ФЦ",
-      "address_line": "ул. \"Дебър\" № 1",
+      "address_line": "Дебър 1",
       "hours": "08:45 - 16:45",
       "source": "Branches.pdf"
     },
@@ -186,7 +186,7 @@
       "city": "София",
       "office_name": "СТАМБОЛИЙСКИ СОФИЯ",
       "type": "ФЦ",
-      "address_line": "бул. \"Ал. Стамболийски\" 73",
+      "address_line": "Александър Стамболийски 73",
       "hours": "08:30 - 16:30",
       "source": "Branches.pdf"
     },
@@ -195,7 +195,7 @@
       "city": "София",
       "office_name": "БАТЕНБЕРГ",
       "type": "ФЦ",
-      "address_line": "ул. \"Княз Александър I\" № 6",
+      "address_line": "Княз Александър 1 6",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -204,7 +204,7 @@
       "city": "София",
       "office_name": "МОСКОВСКА",
       "type": "ЦЧБ",
-      "address_line": "ул. \"Московска\" № 19",
+      "address_line": "Московска 19",
       "hours": "08:30 - 17:30",
       "source": "Branches.pdf"
     },
@@ -213,7 +213,7 @@
       "city": "София",
       "office_name": "РАЗСАДНИКА",
       "type": "Клон",
-      "address_line": "ж.к. \"Илинден\" бл. 129-130 A",
+      "address_line": "Илинден",
       "hours": "08:45 - 16:45",
       "source": "Branches.pdf"
     },
@@ -222,7 +222,7 @@
       "city": "Стара",
       "office_name": "Загора СТАРА ЗАГОРА",
       "type": "ФЦ",
-      "address_line": "бул. \"Митрополит Методий Кусев\" № 8",
+      "address_line": "Митрополит Методий Кусев",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -231,7 +231,7 @@
       "city": "Стара",
       "office_name": "Загора ТРАЯНА",
       "type": "Клон",
-      "address_line": "бул. \"Цар Симеон Велики\" 112",
+      "address_line": "Цар Симеон Велики 112",
       "hours": "09:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -240,7 +240,7 @@
       "city": "Несебър",
       "office_name": "НЕСЕБЪР",
       "type": "Клон",
-      "address_line": "ул. \"Хан Крум\" № 11",
+      "address_line": "Хан Крум 11",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -249,7 +249,7 @@
       "city": "Сливен",
       "office_name": "СЛИВЕН",
       "type": "ФЦ",
-      "address_line": "ул. \"Драган Цанков\" № 2А",
+      "address_line": "Драган Цанков 2",
       "hours": "08:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -258,7 +258,7 @@
       "city": "Хасково",
       "office_name": "ХАСКОВО",
       "type": "ФЦ",
-      "address_line": "пл. \"Свобода\" № 9",
+      "address_line": "Свобода 9",
       "hours": "08:30 - 13:00 ; 13:30 - 17:00",
       "source": "Branches.pdf"
     },
@@ -267,7 +267,7 @@
       "city": "Бургас",
       "office_name": "ПРИМОРИЕ",
       "type": "ФЦ",
-      "address_line": "ул. \"Св.св. Кирил и Методий\" 12",
+      "address_line": "Св.св. Кирил и Методий 12",
       "hours": "08:30 - 16:30",
       "source": "Branches.pdf"
     },
@@ -276,7 +276,7 @@
       "city": "Казанлък",
       "office_name": "КАЗАНЛЪК",
       "type": "ФЦ",
-      "address_line": "бул. \"Александър Батенберг\" № 4",
+      "address_line": "Александър Батенберг 4",
       "hours": "09:00 - 16:30",
       "source": "Branches.pdf"
     },
@@ -285,7 +285,7 @@
       "city": "Ямбол",
       "office_name": "ЯМБОЛ",
       "type": "ФЦ",
-      "address_line": "ул. \"Раковски\" № 1 A",
+      "address_line": "Раковски 1 A",
       "hours": "08:30 - 16:30",
       "source": "Branches.pdf"
     },
@@ -294,7 +294,7 @@
       "city": "Варна",
       "office_name": "ГРАНД МОЛ ВАРНА - БЕЗКАСОВ",
       "type": "офис",
-      "address_line": "ж.к. \"Младост\", ул. \"Акад. Андрей",
+      "address_line": "Младост, Акад. Андрей",
       "hours": null,
       "source": "работещи-офиси-през-събота-и-неделя.pdf"
     },
@@ -303,7 +303,7 @@
       "city": "Габрово",
       "office_name": "ТЕРА ЦЕНТЪР ГАБРОВО",
       "type": "офис",
-      "address_line": "бул. \"Могильов\" № 47, МОЛ \"ТЕРА",
+      "address_line": "Могильов 47",
       "hours": null,
       "source": "работещи-офиси-през-събота-и-неделя.pdf"
     },
@@ -312,7 +312,7 @@
       "city": "София",
       "office_name": "СЕРДИКА ЦЕНТЪР СОФИЯ",
       "type": "Клон",
-      "address_line": "бул. \"Ситняково\" № 48",
+      "address_line": "Ситняково 48",
       "hours": "10:00 - 22:00 10:00 - 22:00 10:00 - 22:00014151",
       "source": "работещи-офиси-през-събота-и-неделя.pdf"
     },
@@ -321,7 +321,7 @@
       "city": "София",
       "office_name": "THE MALL",
       "type": "Клон",
-      "address_line": "бул. „Цариградско шосе“ № 115 \"З“",
+      "address_line": "Цариградско шосе“ 115 З“",
       "hours": "10:00 - 22:00 10:00 - 22:00 10:00 - 22:00013099",
       "source": "работещи-офиси-през-събота-и-неделя.pdf"
     },
@@ -330,7 +330,7 @@
       "city": "София",
       "office_name": "МОЛ СОФИЯ - БЕЗКАСОВ ОФИС",
       "type": "офис",
-      "address_line": "бул. \"Ал. Стамболийски\" № 101",
+      "address_line": "Ал. Стамболийски 101",
       "hours": "10:00 - 21:00 10:00 - 21:00 10:00 - 21:00014109",
       "source": "работещи-офиси-през-събота-и-неделя.pdf"
     }
